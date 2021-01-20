@@ -1,11 +1,11 @@
 <h2>C# LIVE PROJECT</h2>
-After completing the C#/.NET Framework bootcamp at The Tech Academy there is a 2 week live project where I worked with other students as a development team.
-We worked on a full scale MVC Web Application for a Theatre company in a legacy codebase using Azure Devops.  Here we fixed bugs, cleaned up code and added 
-new features and functionality.This was a great experience to learn the day to day duties of a software developer and learning how to come up with solutions 
+After completing the C#/.NET Framework bootcamp at The Tech Academy there is a 2 week live project where I worked with other students as an Agile development team.
+We worked on a full scale MVC Web Application for a Theatre company in a legacy codebase using Azure DevOps.  Here we fixed bugs, cleaned up code and added 
+new features and functionality. This was a great experience to learn the day to day duties of a software developer and learning how to come up with solutions 
 to create a great product.
-
+<br>
 Below are some descriptions of stories I worked on accompanied by the code created to solve the stories.
-
+<br>
 <h4>1. RENTAL PAGE AND ADMIN NAVIGATION</h4>
 This story required a new Rental screen and a navigation link under the Admin menu to show All Rentals for the theatre.  I scaffolded a new RentalController.cs 
 and associated CRUD views. Then updated the shared _Layout.cshtml file to add a new ALL RENTALS navigation link to the ADMIN menu.
