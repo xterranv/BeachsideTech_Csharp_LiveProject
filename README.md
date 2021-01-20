@@ -207,7 +207,7 @@ try
 <h4>3. UPDATE CAST MEMBER PAGE LAYOUT AND FIX ASPECT RATIO ON UPLOADED FILES </h4>
 This story required a fix the the existing Cast Member screen to move fields around in a different order as well as ensure all fields lined 
 up properly during a screen resize. This also needed to fix images, as currently they were being stretched out upon uploading.  To resolve these issues I modified the
-CastMembers Create.cshtml file to rearrange the input fields and labels to the requested order. Lable and input field sizes needed to be adjusted in order to accommodate 
+CastMembers Create.cshtml file to rearrange the input fields and labels to the requested order. Label and input field sizes needed to be adjusted in order to accommodate 
 a screen resize.  The Image issue was resolved by removing the height attribute on the IMG line of code, leaving just the Width attribute.  
 
 <h5>CAST MEMBER CREATE VIEW </h5>
